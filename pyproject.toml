@@ -9,6 +9,12 @@ dependencies = [
     "notebook>=7.5.5",
     "torch",
     "torchvision",
+    "pandas",
+    "scikit-learn",
+    "seaborn",
+    "matminer>=0.10.1",
+    "pandas-stubs~=2.3.3",
+    "scipy-stubs~=1.17.1",
 ]
 
 # --- Origin Configuration ---
